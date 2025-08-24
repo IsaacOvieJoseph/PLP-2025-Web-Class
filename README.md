@@ -5,7 +5,7 @@
 
 **Week 2** - Multi-section HTML5 page with lists, tables, media elements ( Applying Accessiblity & SEO Best Practice )
 
-**Week** - Introduction to CSS & Box Model
+**Week 3** - Introduction to CSS & Box Model
 
 
 

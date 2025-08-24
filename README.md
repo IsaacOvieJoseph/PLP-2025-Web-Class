@@ -1,11 +1,11 @@
 # PLP-2025-Web-Class
-My WebClass Assignment Repo
+## My Web Class' Assignment Repo
 
-## Week 1 - Introduction to HTML5 applying by SEO and Accessibility practices
+**Week 1** - Introduction to HTML5 applying by SEO and Accessibility practices
 
-## Week 2 -
+**Week 2** - Multi-section HTML5 page with lists, tables, media elements ( Applying Accessiblity & SEO Best Practice )
 
-## Week 3 - Introduction to CSS & Box Model
+**Week** - Introduction to CSS & Box Model
 
 
 
